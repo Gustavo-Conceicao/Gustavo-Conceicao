@@ -28,8 +28,9 @@ Olá! Eu sou o Gustavo Conceição!
 
 <div>
   <p>Metodologias Ágeis:</p>
-  <img align="center" alt="logo_Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+  <img align="center" alt="logo_Scrum" height="40" width="50" src="https://www.svgrepo.com/show/372946/scrum.svg"/>
   <img align="center" alt="logo_Cucumber" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
+  <img align="center" alt="logo_Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
 </div>
 
 
